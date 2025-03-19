@@ -26,7 +26,9 @@ pip install -r requirements.txt
 
 ## Usage
 1. Clone the repository to your local machine.
-```git clone https://github.com/yash-8923/ai_chatbot.git```
+```
+git clone https://github.com/yash-8923/ai_chatbot.git
+```
 2. Navigate to the project directory.
 3. Run the chatbot using Streamlit:
    ```
