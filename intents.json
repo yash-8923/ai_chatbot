@@ -1,0 +1,213 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello", 
+            "Hey",
+            "How are you",
+            "What's up"
+        ],
+        "responses": [
+            "Hi there",
+            "Hello",
+            "Hey",
+            "I'm fine, thank you",
+            "Nothing much"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye", 
+            "Take care"
+        ],
+        "responses": [
+            "Goodbye",
+            "See you later",
+            "Take care"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thank you",
+            "Thanks",
+            "Thanks a lot",
+            "I appreciate it"
+        ],
+        "responses": [
+            "You're welcome",
+            "No problem",
+            "Glad I could help"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What can you do",
+            "Who are you",
+            "What are you",
+            "What is your purpose",
+            "Tell me about yourself",
+            "What are your capabilities"
+        ],
+        "responses": [
+            "I am a chatbot designed to help answer questions and assist you. I can help with general information, tell jokes, and engage in conversation.",
+            "I'm an AI assistant here to help you with information and answers. While I can't set alarms or access real-time data, I'm great at answering questions and providing helpful responses!",
+            "I'm a friendly chatbot ready to help with your questions. I can explain things, tell jokes, and have conversations on various topics."
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Help",
+            "I need help",
+            "Can you help me",
+            "What should I do"
+        ],
+        "responses": [
+            "Sure, what do you need help with?",
+            "I'm here to help. What's the problem?",
+            "How can I assist you?"
+        ]
+    },
+    {
+        "tag": "name",
+        "patterns": [
+            "What's your name",
+            "Do you have a name",
+            "What should I call you",
+            "Who are you called"
+        ],
+        "responses": [
+            "You can call me Chatbot",
+            "My name is Chatbot",
+            "I'm Chatbot, nice to meet you"
+        ]
+    },
+    {
+        "tag": "joke",
+        "patterns": [
+            "Tell me a joke",
+            "Do you know any jokes",
+            "Make me laugh",
+            "Say something funny"
+        ],
+        "responses": [
+            "Why don't scientists trust atoms? Because they make up everything!",
+            "What do you call a bear with no teeth? A gummy bear!",
+            "Why did the scarecrow win an award? Because he was outstanding in his field!",
+            "What do you call a fish wearing a bowtie? So-fish-ticated!"
+        ]
+    },
+    {
+        "tag": "weather",
+        "patterns": [
+            "What's the weather like",
+            "How's the weather today",
+            "Will it rain today",
+            "What's the temperature"
+        ],
+        "responses": [
+            "I'm sorry, I cannot provide real-time weather information. You can check a weather app or website for accurate forecasts.",
+            "I don't have access to current weather data. Please check your local weather service."
+        ]
+    },
+    {
+        "tag": "time",
+        "patterns": [
+            "What time is it",
+            "Tell me the time",
+            "What's the current time",
+            "Do you know what time it is"
+        ],
+        "responses": [
+            "I cannot tell you the current time. Please check your device's clock.",
+            "I don't have access to real-time information. Check your watch or device for the current time."
+        ]
+    },
+    {
+        "tag": "how_are_you",
+        "patterns": [
+            "How are you",
+            "How are you doing",
+            "How's it going",
+            "Are you doing well"
+        ],
+        "responses": [
+            "I'm doing well, thank you for asking! How are you?",
+            "I'm functioning properly and ready to help! How about you?",
+            "All good here! How can I assist you today?"
+        ]
+    },
+    {
+        "tag": "capabilities",
+        "patterns": [
+            "What can you do",
+            "What are your features",
+            "How can you help me",
+            "What are you capable of",
+            "Can you set alarms",
+            "Can you remind me",
+            "Do you have any special features"
+        ],
+        "responses": [
+            "I can help answer questions, provide information, tell jokes, and assist with various topics. However, I cannot set alarms, reminders, or access real-time data. Just ask me anything and I'll do my best to help!",
+            "I'm designed to help with information, answer questions, and engage in conversation. While I can't perform tasks like setting alarms or accessing live data, I'm great at providing helpful information and responses!",
+            "I can assist with general questions, provide explanations, and offer helpful information. Feel free to ask me anything!"
+        ]
+    },
+    {
+        "tag": "unknown",
+        "patterns": [
+            "random text",
+            "gibberish",
+            "unclear question"
+        ],
+        "responses": [
+            "I'm not sure I understand. Could you please rephrase that?",
+            "I'm still learning and don't quite understand. Could you try asking in a different way?",
+            "I'm not sure how to respond to that. Could you be more specific?",
+            "That's beyond my current capabilities. Could you try asking something else?"
+        ]
+    },
+    {
+        "tag": "age",
+        "patterns": [
+            "How old are you",
+            "What's your age",
+            "When were you created",
+            "What's your birth date",
+            "What is your age",
+            "Tell me your age",
+            "How many years old are you",
+            "How long have you existed",
+            "What year were you born",
+            "Are you young or old",
+            "Do you age",
+            "Are you a child or adult"
+        ],
+        "responses": [
+            "I'm a computer program, so I don't have an age in the traditional sense.",
+            "I exist as a chatbot, so concepts like age don't really apply to me.",
+            "I'm focused on helping you rather than my age!"
+        ]
+    },
+    {
+        "tag": "location",
+        "patterns": [
+            "Where are you from",
+            "Where do you live",
+            "What's your location",
+            "Where are you located"
+        ],
+        "responses": [
+            "I'm a digital assistant, so I exist in the digital world rather than any physical location.",
+            "I'm a computer program, so I don't have a physical location.",
+            "I exist wherever I can be helpful to users like you!"
+        ]
+    }
+]
